@@ -37,7 +37,8 @@ go run main.go
 ## TODO list
 - [x] Сreate a service that counts users which opened current page of website
 - [x] Display counter on the same page
-- [ ] Tests
+- [X] Logging
+- [X] Tests
 - [ ] Check if it is a web-link on the server side.
 - [ ] Do not save the link to the page as a key in the Redis repository (cause of URL parameters).
 
